@@ -1,0 +1,20 @@
+# Ignore datasets
+1A_sensor_2LED_lamp/
+1A_sensor_4LED_lamp/
+REFITPowerData111215/
+test/
+with\ 3\ lamps/
+without\ 3\ lamps/
+*.csv
+
+# Ignore model weights
+*.pth
+
+# Ignore plots
+*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
